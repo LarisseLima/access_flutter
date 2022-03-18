@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-
 class UserType {
   
   String id;
