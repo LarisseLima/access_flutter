@@ -1,6 +1,4 @@
-
 import 'dart:convert';
-
 import 'package:consumindo_api_com_flutter/model/user_type.dart';
 
 class UserModel {
